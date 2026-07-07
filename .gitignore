@@ -1,0 +1,17 @@
+# local database
+data/
+
+# generated profiling charts
+reports/*.png
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# editor/OS clutter
+.vscode/
+.idea/
+.DS_Store
